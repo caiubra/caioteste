@@ -1,0 +1,17 @@
+body {
+  font-family: 'Nunito', sans-serif;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+ul, ol {
+  margin-left: 20px;
+}
